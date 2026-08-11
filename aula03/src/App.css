@@ -1,11 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #ecd4ff;
+    background-color: #edd6ff;
 }
 
 h1{
-    background-color: rgb(183, 127, 236);
+    background-color: rgb(196, 166, 226);
     color: white;
     text-align: center;
     padding: 20px;
@@ -15,7 +15,7 @@ h1{
 
 .conteudo
 {
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 30px;
     max-width: 500px;
     background-color: #ffffff;
@@ -35,7 +35,7 @@ h1{
 
 .conteudo a 
 {
-    color: #960000;
+    color: #5a0096;
     text-decoration: none;
     font-weight: 500;
 }
