@@ -14,13 +14,13 @@ export default function Exemplo1()
     {
         let res = idade * 365;
 
-        setDias( res );
+        setDias(res);
     }
 
     function processar()
     {
         let res = idade * 365;
-        setDias( res );
+        setDias(res);
 
         setResultado(
             <div>
@@ -49,10 +49,7 @@ export default function Exemplo1()
 
                     <p>
                         <input type="button" value="Calcular" onClick={calcular} />
-                    </p>
-
-                    <p>
-                        <input type="button" value="Calcular" onClick={calcular} />
+                        
                         <input type="button" value="Processar" onClick={processar} />
                     </p>
 
