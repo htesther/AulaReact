@@ -4,6 +4,7 @@ import Exemplo1 from "./paginas/Exemplo1";
 import Exemplo2 from "./paginas/Exemplo2";
 import Exercicio1 from "./paginas/Exercicio1";
 import Exercicio2 from "./paginas/Exercicio2";
+import Exercicio3 from "./paginas/Exercicio3";
 
 export default function App()
 {
@@ -19,6 +20,7 @@ export default function App()
                 
                 <Route  path="/Exercicio1" element={ <Exercicio1 />} />
                 <Route  path="/Exercicio2" element={ <Exercicio2 />} />
+                <Route  path="/Exercicio3" element={ <Exercicio3 />} />
 
             </Routes>
 

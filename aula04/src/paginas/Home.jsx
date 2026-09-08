@@ -21,6 +21,7 @@ export default function Home()
                 <ul>
                     <li><Link to="/Exercicio1">Exercício 1</Link></li>
                     <li><Link to="/Exercicio2">Exercício 2</Link></li>
+                    <li><Link to="/Exercicio3">Exercício 3</Link></li>
                 </ul>
 
             </div>
